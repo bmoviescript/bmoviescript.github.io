@@ -1,1 +1,7 @@
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-responsive_image
+title: The Bee Movie Script
+author: Toma Brasoveanu
+github:
+  is_project_page: false
