@@ -1,7 +1,6 @@
 theme: jekyll-theme-midnight
-plugins:
-
 show_downloads: false
+plugins:
   - jekyll-responsive_image
   - emoji_for_jekyll
 title: The Bee Movie Script
