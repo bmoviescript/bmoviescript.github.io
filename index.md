@@ -1,4 +1,4 @@
-# ** Bee Movie Script: **
+# **Bee Movie Script:**
 
 
 ![jazz](ya_like_jazz.gif)
