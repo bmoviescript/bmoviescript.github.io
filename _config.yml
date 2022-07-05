@@ -1,6 +1,7 @@
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-responsive_image
+  - emoji_for_jekyll
 title: The Bee Movie Script
 author: Toma Brasoveanu
 github:
